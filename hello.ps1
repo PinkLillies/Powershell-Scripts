@@ -1,6 +1,5 @@
 ﻿Write-Host "Hello Miss!"
-
-# this is just a comment
-# I am adding this new comment from Visual Studio Code
-
 Write-Host "Hello Mister!"
+# updated at 6.48pm
+# just checking one more time
+# and again
