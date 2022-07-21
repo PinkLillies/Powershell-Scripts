@@ -17,6 +17,8 @@ Get-WmiObject -Class Win32_OperatingSystem | Select-Object -Property CSName,Free
 # This create a table with CSName and FreeVirtualMemory as the top field
 # and below that we get the machine name and the free virtual memory on the machine
 
+# 
+
  
 
 
